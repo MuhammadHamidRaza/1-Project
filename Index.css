@@ -1,0 +1,100 @@
+.calculator {
+    background-color: blue;
+    width: 140px;
+    margin-left: auto;
+    padding: 4px;
+    margin-right: auto;
+    margin-top: 245px;
+}
+
+#input {
+    width: 133px;
+    border-radius: 6px;
+}
+
+.first {
+    background-color: aqua;
+    border-radius: 5px;
+    width: 32px;
+}
+
+.second {
+    background-color: rgb(115, 255, 0);
+    border-radius: 5px;
+    width: 32px;
+
+}
+
+.third {
+    background-color: rgb(255, 136, 0);
+    border-radius: 5px;
+    width: 32px;
+
+}
+.zero{
+    
+    width: 67px;
+    border-radius: 5px;
+}
+.de{
+    
+    width: 67px;
+    border-radius: 5px;
+
+}
+.op {
+    background-color: rgba(255, 5, 5, 0.596);
+    border-radius: 5px;
+    width: 32px;
+
+}
+
+.del {
+    background-color: red;
+    width: 67px;
+    border-radius: 5px;
+}
+
+.cal {
+
+    background-color: rgba(255, 174, 0, 0.644);
+    width: 138px;
+    border-radius: 5px;
+
+}
+
+.cls {
+    border-radius: 5px;
+
+    width: 68px;
+    background-color: rgba(204, 32, 32, 0.644);
+}
+
+.cal:hover {
+    background-color: black;
+    color: white;
+}.cls:hover {
+    background-color: black;
+    color: white;
+}.del:hover {
+    background-color: black;
+    color: white;
+}.op:hover {
+    background-color: black;
+    color: white;
+}.first:hover {
+    background-color: black;
+    color: white;
+}.second:hover {
+    background-color: black;
+    color: white;
+}.third:hover {
+    background-color: black;
+    color: white;
+}.zero:hover {
+    background-color: black;
+    color: white;
+}.de:hover {
+    background-color: black;
+    color: white;
+}
